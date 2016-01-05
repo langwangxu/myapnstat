@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/dao
+END
+VolumeStatsByDayDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/dao/VolumeStatsByDayDao.java
+END
+VolumeStatsByYearDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/dao/VolumeStatsByYearDao.java
+END
+VolumeStatsByMonthDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/dao/VolumeStatsByMonthDao.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/dao/BaseDao.java
+END
+StatApnDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/dao/StatApnDao.java
+END

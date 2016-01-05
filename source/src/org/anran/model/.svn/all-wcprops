@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/model
+END
+VolumeStatsByDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/model/VolumeStatsByDay.java
+END
+EnterpQueryTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/model/EnterpQueryTool.java
+END
+RespEntityPForAjax.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/model/RespEntityPForAjax.java
+END
+VolumeStatsByYear.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/model/VolumeStatsByYear.java
+END
+QueryTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/model/QueryTool.java
+END
+VolumeStatsByMonth.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/model/VolumeStatsByMonth.java
+END
+TestReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/src/org/anran/model/TestReport.java
+END

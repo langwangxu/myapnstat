@@ -1,0 +1,5 @@
+#Oracle
+jdbc.driverClassName=oracle.jdbc.OracleDriver
+jdbc.url=jdbc:oracle:thin:@172.16.31.162:1521:orcl
+jdbc.username=aaa3apn
+jdbc.password=aaa3apn

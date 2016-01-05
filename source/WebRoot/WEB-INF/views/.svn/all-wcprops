@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views
+END
+500.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/500.jsp
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/404.jsp
+END
+error-parameter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/error-parameter.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/error.jsp
+END
+fail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/fail.jsp
+END
+error-business.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/error-business.jsp
+END

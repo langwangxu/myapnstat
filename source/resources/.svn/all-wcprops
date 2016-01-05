@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/resources
+END
+anran-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/resources/anran-dao.xml
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/resources/ehcache.xml
+END
+anran-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/resources/anran-service.xml
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/resources/jdbc.properties
+END
+anran.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/resources/anran.xml
+END

@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/js/lt.js=UTF-8
+encoding//WebRoot/WEB-INF/views/stat/topNResfail.sql=UTF-8
+encoding//src/org/anran/common/util/PageList.java=UTF-8
+encoding//src/org/anran/common/util/PageListUtil.java=UTF-8
+encoding//src/org/anran/dao/BaseDao.java=UTF-8
+encoding//src/org/anran/dao/StatApnDao.java=UTF-8
+encoding//src/org/anran/dao/VolumeStatsByDayDao.java=UTF-8
+encoding//src/org/anran/dao/VolumeStatsByMonthDao.java=UTF-8
+encoding//src/org/anran/dao/VolumeStatsByYearDao.java=UTF-8
+encoding//src/org/anran/web/StatApnController.java=UTF-8

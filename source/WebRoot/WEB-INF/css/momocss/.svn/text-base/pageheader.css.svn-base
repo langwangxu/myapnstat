@@ -1,0 +1,100 @@
+		*{
+			margin:0;
+			padding:0;
+		}
+		body{
+			font-size:12px;
+			font-family:"Microsoft Yahei";
+			padding-bottom:50px;
+		}
+		.carousel{
+			height:500px;
+			background-color:#000;
+			margin-bottom:60px;
+		}
+		
+		.carousel .item{
+			height:500px;
+			background-color:#000;
+		}
+		
+		#summary-container .col-md-4{
+			text-align:center;
+		}
+		
+		.feature{
+			padding:30px 0;
+		}
+		.feature-heading{
+			font-size:50px;
+			color:#2a6496;
+		}
+		.feature-heading .text-muted{
+			font-size:28px;
+			color:#999;
+		}
+		.feature img{
+			height:80%;
+			width:80%;
+			margin-left:60px;
+			margin-top: 15px;
+		}
+		
+		#about-li{
+			outline:none;
+		}
+		
+		hr.divider{
+			margin:50px 0;
+		}
+		
+		.myi{
+			margin-right: 10px;
+		}
+		
+		.md-i{
+			font-size: 86px;
+			line-height: 100px;
+		}
+		
+		.mdi-2{
+			font-size: 150px;
+			line-height: 150px;
+		}
+		
+		.lead-18{
+			font-size:16px;
+			line-height: 28px;
+		}
+		
+		.lead-18 .badge{
+		 	font-size:16px;
+		 	color:#5E0718;
+		 	background-color:#CBCBCB;
+		}
+		
+		.fa-red{
+			color:#FF4F1C;
+		}
+		
+		.fa-green{
+			color:#3FCF32;
+		}
+		
+		.fa-blue{
+			color:#4A88D4;
+		}
+		
+		.report-heading{
+			font-size:24px;
+		}
+		
+		.report-s-muted{
+			font-size:12px;
+			color:#777;
+		}
+		
+		#report-i{
+			font-size:initial;
+			color:rgba(235, 9, 45, 0.8);
+		}

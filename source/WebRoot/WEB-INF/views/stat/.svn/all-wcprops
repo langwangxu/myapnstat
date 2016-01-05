@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/stat
+END
+epriseFlowQuery.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/stat/epriseFlowQuery.jsp
+END
+percentResFail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/stat/percentResFail.jsp
+END
+topNResfail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/stat/topNResfail.jsp
+END
+epriseFlowQuery.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/stat/epriseFlowQuery.sql
+END
+percentResFail.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/stat/percentResFail.sql
+END
+topNResfail.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/apn3.0/!svn/ver/1353/branches/branch-3.3/omc/ApnStat/WebRoot/WEB-INF/views/stat/topNResfail.sql
+END
